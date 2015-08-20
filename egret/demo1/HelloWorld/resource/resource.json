@@ -1,0 +1,25 @@
+{
+	"resources": [
+		{
+			"name": "github",
+			"type": "image",
+			"url": "assets/github.png"
+		},
+		{
+			"name": "docker",
+			"type": "image",
+			"url": "assets/docker.png"
+		},
+		{
+			"name": "go",
+			"type": "image",
+			"url": "assets/go.png"
+		}
+	],
+	"groups": [
+		{
+			"name": "lang",
+			"keys": "github,docker,go"
+		}
+	]
+}

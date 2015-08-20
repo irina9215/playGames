@@ -1,0 +1,33 @@
+{
+	"close":false,
+	"projectType":"egret",
+	"resourcePlugin":
+	{
+		"configs":[
+		{
+			"configPath":"resource/resource.json",
+			"relativePath":"resource/"
+		}],
+		"id":"org.egret-labs.resource",
+		"library":
+		{
+			"children":[
+			{
+				"isFolder":false,
+				"key":"docker",
+				"name":"docker"
+			},
+			{
+				"isFolder":false,
+				"key":"github",
+				"name":"github"
+			},
+			{
+				"isFolder":false,
+				"key":"go",
+				"name":"go"
+			}]
+		}
+	},
+	"theme":"resource/theme.thm"
+}
